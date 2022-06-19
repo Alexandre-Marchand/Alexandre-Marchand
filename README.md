@@ -10,7 +10,7 @@
 </div>
 
 ### Learning in progress 🎓
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="80" height="80" ><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="80" height="80" title="css"><img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="80" height="80" title="sass"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="80" height="80" title="js">
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="80" height="80" ><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="80" height="80" title="css"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="80" height="80" title="js">
 
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="80" height="80" title="nodejs"><img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="pgsql" width="80" height="80" title="pgsql"><img src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="npm" width="80" height="80" title="npm"><img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="80" height="80" title="sequelize">
 
