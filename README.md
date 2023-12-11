@@ -1,6 +1,6 @@
 <h1 align=center>  Alexandre Marchand <br> 🇫🇷 </h1>
 
-<h3 align=center>  Developer junior ⚙️  </h3>
+<h3 align=center>  Developer web ⚙️  </h3>
 <br>
 
 <div align=center> 
